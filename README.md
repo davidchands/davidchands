@@ -1,9 +1,5 @@
 # Hi there, I'm David! 👋
 
-![Banner Image](your_banner_image_url_here)
-
-## About Me 🚀
-
 I'm a passionate **software developer** with experience in **NextJS and ReactJS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **How to build AI native tools**
