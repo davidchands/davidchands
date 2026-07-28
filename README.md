@@ -29,7 +29,7 @@ I'm a passionate **software developer** with experience in **NextJS and ReactJS*
 
 ### Sales Dashboard: (https://dashboard-coral-alpha-57.vercel.app/)
 
-![Project 2 Screenshot](salesdasboard.png)
+![Project 2 Screenshot](salesdashboard.png)
 
 **Sales Dashboard** is a **A simple, business-focused sales dashboard designed to help teams move away from spreadsheets and clearly understand their sales data at a glance.** built with **Next.js, PapaParse, Chart.js**. This project showcases my skills in **building business solutions**. You can check out the repository [here](https://github.com/davidchands/Sales-Dashboard-repo).
 
