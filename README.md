@@ -27,7 +27,7 @@ I'm a passionate **software developer** with experience in **NextJS and ReactJS*
 
 ### UploadStudy: (https://www.uploadstudy.com/)
 
-![Project 1 Screenshot](<img width="1512" height="861" alt="Image" src="https://github.com/user-attachments/assets/85e3a366-0642-4888-8214-c431e87889b3" />)
+![Project 1 Screenshot](Screenshot 2026-07-28 at 06.54.55.png)
 
 **UploadStudy** is an **An AI powered study app that transforms uploaded materials into flashcards, helping students learn faster with less manual preparation.** built with **Next.js, Gemini API, Supabase, Clerk**. This project demonstrates my ability to **build fullstack SaaS**. You can check out the repository [here](https://github.com/davidchands/flash-learn).
 
