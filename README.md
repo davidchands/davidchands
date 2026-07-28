@@ -27,13 +27,13 @@ I'm a passionate **software developer** with experience in **NextJS and ReactJS*
 
 ### UploadStudy: (https://www.uploadstudy.com/)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](<img width="1512" height="861" alt="Image" src="https://github.com/user-attachments/assets/85e3a366-0642-4888-8214-c431e87889b3" />)
 
 **UploadStudy** is an **An AI powered study app that transforms uploaded materials into flashcards, helping students learn faster with less manual preparation.** built with **Next.js, Gemini API, Supabase, Clerk**. This project demonstrates my ability to **build fullstack SaaS**. You can check out the repository [here](https://github.com/davidchands/flash-learn).
 
 ### Sales Dashboard: (https://dashboard-coral-alpha-57.vercel.app/)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot](<img width="1512" height="861" alt="Image" src="https://github.com/user-attachments/assets/0901eea4-b8a6-4f3d-b48a-d8e5a78996e7" />)
 
 **Sales Dashboard** is a **A simple, business-focused sales dashboard designed to help teams move away from spreadsheets and clearly understand their sales data at a glance.** built with **Next.js, PapaParse, Chart.js**. This project showcases my skills in **building business solutions**. You can check out the repository [here](https://github.com/davidchands/Sales-Dashboard-repo).
 
