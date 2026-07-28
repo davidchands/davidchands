@@ -27,22 +27,22 @@ I'm a passionate **software developer** with experience in **NextJS and ReactJS*
 
 ## Featured Projects 💻
 
-### [UploadStudy](https://www.uploadstudy.com/)
+### UploadStudy: (https://www.uploadstudy.com/)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[UploadStudy]** is an **[An AI powered study app that transforms uploaded materials into flashcards, helping students learn faster with less manual preparation.]** built with **[Next.js, Gemini API, Supabase, Clerk]**. This project demonstrates my ability to **[build fullstack SaaS]**. You can check out the repository [here](https://github.com/davidchands/flash-learn).
+**UploadStudy** is an **An AI powered study app that transforms uploaded materials into flashcards, helping students learn faster with less manual preparation.** built with **Next.js, Gemini API, Supabase, Clerk**. This project demonstrates my ability to **build fullstack SaaS**. You can check out the repository [here](https://github.com/davidchands/flash-learn).
 
-### [Sales Dashboard](https://dashboard-coral-alpha-57.vercel.app/)
+### Sales Dashboard: (https://dashboard-coral-alpha-57.vercel.app/)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Sales Dashboard]** is a **[A simple, business-focused sales dashboard designed to help teams move away from spreadsheets and clearly understand their sales data at a glance.]** built with **[Next.js, PapaParse, Chart.js]**. This project showcases my skills in **[building business solutions]**. You can check out the repository [here](https://github.com/davidchands/Sales-Dashboard-repo).
+**Sales Dashboard** is a **A simple, business-focused sales dashboard designed to help teams move away from spreadsheets and clearly understand their sales data at a glance.** built with **Next.js, PapaParse, Chart.js**. This project showcases my skills in **building business solutions**. You can check out the repository [here](https://github.com/davidchands/Sales-Dashboard-repo).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://my-portfolio-lyart-eta-42.vercel.app/#)
-- **[LinkedIn]**(https://www.linkedin.com/in/david-chandika-a91164336/)
-- **[Twitter]**(https://x.com/MrDave_id)
+- **Personal Website:**(https://my-portfolio-lyart-eta-42.vercel.app/#)
+- **LinkedIn:**(https://www.linkedin.com/in/david-chandika-a91164336/)
+- **Twitter:**(https://x.com/MrDave_id)
 
 
