@@ -35,8 +35,8 @@ I'm a passionate **software developer** with experience in **NextJS and ReactJS*
 
 ## Get in Touch 📬
 
-- **Personal Website:**(https://my-portfolio-lyart-eta-42.vercel.app/#)
-- **LinkedIn:**(https://www.linkedin.com/in/david-chandika-a91164336/)
-- **Twitter:**(https://x.com/MrDave_id)
+- **Personal Website:** https://my-portfolio-lyart-eta-42.vercel.app/#
+- **LinkedIn:** https://www.linkedin.com/in/david-chandika-a91164336/
+- **Twitter:** https://x.com/MrDave_id
 
 
