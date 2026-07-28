@@ -11,7 +11,7 @@ I'm a passionate software developer specializing in Next.js and React.js, with a
 * ✉️  You can contact me at [davidchax2004@gmail.com](mailto:davidchax2004@gmail.com)
 * 🚀  I'm currently working on [Uploadstudy](http://www.uploadstudy.com/)
 * 👥  I'm looking to collaborate on any software project
-* 💬  Ask me about My goal is to use my tech skills to fund my life
+* 💬  Ask me about Fullstack development
 
 ### My Tech Stack
 
