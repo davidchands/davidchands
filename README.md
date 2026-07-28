@@ -1,5 +1,4 @@
 # Hi there, I'm David! 👋
-
 I'm a passionate **software developer** specializing in **Next.js and React.js**, with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy solving complex problems, writing clean and maintainable code, and continuously learning new technologies to improve my craft. I thrive in collaborative environments, value teamwork and communication, and am always eager to contribute innovative solutions that create meaningful impact for users and businesses alike.
 
 
