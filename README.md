@@ -10,7 +10,7 @@ I'm a passionate software developer specializing in Next.js and React.js, with a
 * 🖥️  See my portfolio at [Portfolio](http://my-portfolio-lyart-eta-42.vercel.app/#)
 * ✉️  You can contact me at [davidchax2004@gmail.com](mailto:davidchax2004@gmail.com)
 * 🚀  I'm currently working on [Uploadstudy](http://www.uploadstudy.com/)
-* 👥  I'm looking to collaborate on any software project
+* 👥  I'm looking to collaborate on software projects where I can contribute using my tech stack and experience.
 * 💬  Ask me about Fullstack development
 
 ### My Tech Stack
