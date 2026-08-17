@@ -27,7 +27,3 @@ I'm a passionate software developer specializing in Next.js and React.js, with a
 <a href="https://linkedin.com/in/david-chandika-a91164336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-chandika" height="30" width="40" /></a>
 <a href="https://twitter.com/MrDave_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrdave-id" height="30" width="40" /></a>
 </p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/davidchands"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davidchands&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
