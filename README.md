@@ -12,7 +12,6 @@ I'm a passionate software developer specializing in Next.js and React.js, with a
 * 🚀  I'm currently working on [Dala Route](https://njia-mbadala-web.vercel.app/)
 * 👥  I'm looking to collaborate on software projects where I can contribute using my tech stack and experience.
 * 💬  Ask me about Fullstack development
-* I love building useful stuff
 
 ### My Tech Stack
 
