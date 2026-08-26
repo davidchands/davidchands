@@ -12,7 +12,7 @@
 
 I'm a passionate software developer specializing in Next.js and React.js, with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy solving problems, writing clean and maintainable code, and continuously learning new technologies to improve my craft. I thrive in collaborative environments, value teamwork and communication, and am always eager to contribute innovative solutions that create meaningful impact for users and businesses alike.
 
-🔭 &nbsp;I'm currently working on **an exciting project**  
+🔭 &nbsp;I'm currently working on **a transportation tool project**  
 🌱 &nbsp;I'm currently learning **Efficient system design**  
 👯 &nbsp;I'm looking to collaborate on **software projects where I can contribute using my tech stack and experience.**  
 🤔 &nbsp;I'm looking for help with **how to show my work / expertise on social media**  
