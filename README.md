@@ -17,7 +17,7 @@ I'm a passionate software developer specializing in Next.js and React.js, with a
 👯 &nbsp;I'm looking to collaborate on **software projects where I can contribute using my tech stack and experience.**  
 🤔 &nbsp;I'm looking for help with **how to show my work / expertise on social media**  
 💬 &nbsp;Ask me about **React, Next JS, Fullstack development, AI integration**  
-😄 &nbsp;Pronouns: **he/him**  
+😄 &nbsp;Pronouns: **I'm him**  
 ⚡ &nbsp;Fun fact: **YC S29, see you soon!**
 
 ### 🛠️ Tech Stack
