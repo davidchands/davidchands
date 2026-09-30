@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=685&height=44&lines=I%20am%20a%20software%20developer;Crafting%20solutions%20to%20problems%20I%20care%20about" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### 🚀 About Men
 
 I'm a passionate software developer specializing in Next.js and React.js, with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy solving problems, writing clean and maintainable code, and continuously learning new technologies to improve my craft. I thrive in collaborative environments, value teamwork and communication, and am always eager to contribute innovative solutions that create meaningful impact for users and businesses alike.
 
